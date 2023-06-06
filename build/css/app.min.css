@@ -283,11 +283,6 @@ img {
   }
 }
 
-.list-unstyled {
-  padding-left: 0;
-  list-style: none;
-}
-
 .img-fluid {
   max-width: 100%;
   height: auto;
@@ -826,20 +821,6 @@ img {
 }
 .navegacion a:hover {
   background-color: #e99401;
-}
-
-.header-barra-abajo {
-  position: relative;
-}
-.header-barra-abajo img {
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  margin: 0;
-  width: 100%;
-  background-size: cover;
-  z-index: 1;
 }
 
 .sobrete {
